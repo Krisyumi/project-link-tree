@@ -1,1 +1,4 @@
-Este projeto chamado project link tree e apenas um teste que eu estava treinando para tentar fazer um link tree
+Update:
+-Bordas Arredondadas
+-Bordas com cores azuis
+-Links concertados
