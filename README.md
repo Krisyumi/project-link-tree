@@ -1,8 +1,3 @@
-Update:
--Bordas Arredondadas
--Bordas com cores azuis
--Links concertados
-2 Update
--rounded img 
-Nexts updates
--background 
+Corrigido erros no código
+Adicionado centralização da foto de perfil
+Adicionei também edição para aumentar e diminuir os balões e letras
